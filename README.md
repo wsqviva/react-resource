@@ -9,4 +9,4 @@
 ![Pro React](/images/proreact.jpg "Pro React")
 
 [SurviveJs](https://survivejs.com/ "survivejs")
-![SurviveJs](/images/survivejs.png "SurviveJs")
+![SurviveJs](/images/survivejs.jpg "SurviveJs")
