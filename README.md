@@ -5,8 +5,8 @@
 ## Posts
 
 ## Books
-[Pro React](http://www.pro-react.com/ "Pro React")  
-![Pro React](/images/proreact.jpg "Pro React")
+<a href="http://www.pro-react.com/" target="_blank">Pro React</a>
+[![Pro React](/images/proreact.jpg "Pro React")](http://www.pro-react.com/)
 
-[SurviveJs](https://survivejs.com/ "survivejs")  
-![SurviveJs](/images/survivejs.jpg "SurviveJs")
+<a href="https://survivejs.com/" target="_blank">SurviveJs</a>
+[![SurviveJs](/images/survivejs.jpg "SurviveJs")](https://survivejs.com/)
