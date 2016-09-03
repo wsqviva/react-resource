@@ -1,7 +1,7 @@
 # resource-about-react
 
 ## Starter-project
-[React Starter Kit Vux ★10, 328](https://github.com/kriasoft/react-starter-kit) isomorphic web app boilerplate by kriasoft
+[React Starter Kit ★10, 328](https://github.com/kriasoft/react-starter-kit) isomorphic web app boilerplate by @kriasoft
 
 ## Posts
 
