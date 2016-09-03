@@ -1,6 +1,7 @@
 # resource-about-react
 
-## starter-project
+## Starter-project
+[!React Starter Kit Vux ★10, 328](https://github.com/kriasoft/react-starter-kit)
 
 ## Posts
 
