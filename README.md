@@ -6,6 +6,8 @@
 ## Posts
 * [A Primer on the React Ecosystem: Part 2 of 3](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/)
 * [A Primer on the React Ecosystem: Part 1 of 3](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-2-of-3/)
+* [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
+  ![Basic Theoretical Concepts](/images/concepts.jpg "Concepts")
 
 ## Books
 <a href="http://www.pro-react.com/" target="_blank">Pro React</a>  
